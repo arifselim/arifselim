@@ -1,6 +1,7 @@
 👋 Hi, I’m @arifselim
-I will be DevOps Engineer in the future
-I’m currently learning container orchestration tools such as Kubernetes
+
+I will be DevOps Engineer in the future. I’m currently learning container orchestration tools such as Kubernetes.
+
 You can contact me via me[at]arifselim.com
 
 My Experiences & Knowledge:
