@@ -11,7 +11,8 @@ My Experiences & Knowledge:
 - Basic .NET Core MVC
 - Basic Linux
 - C, C++, C#, PHP, HTML, CSS, Javascript, basic Python
-- AWS CLI
+- CI/CD process
+- Scalable network technologies like Load Balancers
 - Basic networking technologies
 - Object Oriented Programming
 - Basic MySQL & MongoDB
